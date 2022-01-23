@@ -1,0 +1,6 @@
+name: Client
+version: '${project.version}'
+main: fr.mrcoq.Plugin
+api-version: 1.18
+authors: [ MrCoq ]
+description: Client plugin
